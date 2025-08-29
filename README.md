@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me  
 ✨ Passionate **Full Stack Developer** with a strong foundation in **Frontend** and a growing mastery in **MERN Stack**.  
 🌍 Dedicated to creating **impactful projects**, blending **tech + creativity** for global reach.  
-🚀 Currently working on **ClicknCart** – my full-stack E-commerce app.  
+🚀 Currently working on **InvoLuck** – my full-stack app.  
 🎥 I also love mixing **code + content** → turning dev struggles into creative digital stories.  
 🌟 Dreaming big: aiming for **remote roles, international clients & building my personal tech brand**.  
 
@@ -39,7 +39,7 @@
 
 ## 📌 Featured Projects  
 
-🔹 **ClicknCart** → Full-stack E-commerce store (MERN, Tailwind, JWT Auth)  
+🔹 **InvoLuck** → Full-stack App (MERN, Tailwind, JWT Auth)  
 🔹 **Portfolio Website** → Personal brand showcase built with React + Tailwind  
 🔹 **Clones & Practice Projects** → Netflix, Instagram, Responsive UIs & more  
 
