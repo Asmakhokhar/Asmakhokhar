@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast | Digital Creator 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%7C+MERN+Stack+Explorer;Transforming+Ideas+into+Digital+Reality+✨;Building+ClicknCart+🚀;Code+%2B+Content+%3D+Asma+Brand+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%7C+MERN+Stack+Explorer;Transforming+Ideas+into+Digital+Reality+✨;Building+InvoLuck+🚀;Code+%2B+Content+%3D+Asma+Brand+⚡" alt="Typing SVG" />
 </p>
 
 ---
