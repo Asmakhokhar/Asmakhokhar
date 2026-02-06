@@ -55,22 +55,6 @@ Building scalable, modern web applications with clean UI, strong backend logic &
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asmakhokhar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmakhokhar&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmakhokhar&theme=tokyonight" />
-</p>
-
----
-
 ## 💼 Work Experience  
 
 ### Frontend Developer — Machine Minds (Remote)  
