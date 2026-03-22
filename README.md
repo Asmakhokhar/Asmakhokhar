@@ -144,9 +144,6 @@ const asma = {
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asmakhokhar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmakhokhar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> -->
 </div> -->
 
 <div align="center">
