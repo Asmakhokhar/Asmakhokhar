@@ -26,9 +26,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
-  <a href="https://www.instagram.com/asmak.web/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=asma-ismail-khokhar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
