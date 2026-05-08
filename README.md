@@ -40,7 +40,13 @@
 ## `$ whoami`
 
 ```ts
-
+const asma = {
+  role       : "Full Stack Developer (Frontend-Focused)",
+  currentJob : "Frontend Developer @ Machine Minds — Remote 🌐",
+  focus      : ["AI-powered dashboards", "real-time web apps", "scalable UI systems"],
+  seeking    : "Remote & international opportunities",
+  philosophy : "Code that solves real problems, UI that earns trust.",
+};
 ```
 
 > I don't just build UIs — I architect user experiences. With a foundation in MERN stack development and a sharp eye for design systems, I ship production-grade software that scales.
