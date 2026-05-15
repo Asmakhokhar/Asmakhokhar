@@ -104,9 +104,6 @@ const asma = {
 ### 🏢 Techxicon Software Company
 **Frontend Developer** · Jan 2025 – Aug 2025
 
-- Delivered end-to-end **MERN stack applications** in agile sprints
-- Implemented secure **JWT-based authentication** and RESTful API integrations
-- Reduced query response time via **performance-optimized MongoDB pipelines**
 
     </td>
   </tr>
